@@ -14,6 +14,14 @@ h1 {
   text-align: center;
 }
 
+#visitor-count {
+  font-size: 18px;  /* Existing style */
+  color: #333;       /* Existing style */
+  position: absolute; /* Keep absolute positioning */
+  top: 10px;          /* Adjust for desired top margin */
+  right: 10px;         /* Adjust for desired right margin */
+}
+
 .contact {
   text-align: center; 
   margin-bottom: 10px;
